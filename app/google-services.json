@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719136301297",
+    "project_id": "car-info-cd7bb",
+    "storage_bucket": "car-info-cd7bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719136301297:android:ae194687fa6eeff08f0950",
+        "android_client_info": {
+          "package_name": "com.cscorner.carinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp5W9cyfXQ0apN3wiKGdcpRjYcD4nmn5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
